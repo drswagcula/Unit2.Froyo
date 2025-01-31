@@ -1,7 +1,7 @@
 // Prompt the user for a list of froyo flavors
 const userInput = prompt(
     "Enter your froyo flavors, separated by commas:",
-    "vanilla,strawberry,coffee,chocolate"
+    "vanilla,strawberry,coffee,chocolate,pistachio"
 );
 
 // Convert the input string into an array
